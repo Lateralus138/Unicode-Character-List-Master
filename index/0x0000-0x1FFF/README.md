@@ -41,7 +41,7 @@ Each set is listed from; for example:
 
 <a name="0x0000"></a>
 
-[Back to list index](https://github.com/Lateralus138/Unicode-Char-List#list)
+[Back to list index](../../#list)
 
 ### [0x0000-0x0FFF]
 
