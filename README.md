@@ -46,7 +46,7 @@ Each set is listed from; for example:
 
 ### Index
 
-- [0x0000-0x1FFF](https://github.com/Lateralus138/Unicode-Char-List-0x0000-0x1FFF)
+- [0x0000-0x1FFF](0x0000-0x1FFF/)
   - [0x0000-0x0FFF](https://github.com/Lateralus138/Unicode-Char-List-0x0000-0x1FFF#0x0000)
   - [0x1000-0x1FFF](https://github.com/Lateralus138/Unicode-Char-List-0x0000-0x1FFF#0x1000)
 - [0x2000-0x3FFF](https://github.com/Lateralus138/Unicode-Char-List-0x2000-0x3FFF)
