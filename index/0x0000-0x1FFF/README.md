@@ -41,7 +41,7 @@ Each set is listed from; for example:
 
 <a name="0x0000"></a>
 
-[Back to list index](../../#list)
+[Back to list index](../../README.md#list)
 
 ### [0x0000-0x0FFF]
 
