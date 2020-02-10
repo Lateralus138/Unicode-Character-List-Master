@@ -41,7 +41,7 @@ Each set is listed from; for example:
 
 <a name="0x4000"></a>
 
-[Back to list index](https://github.com/Lateralus138/Unicode-Char-List#list)
+[Back to list index](https://github.com/Lateralus138/Unicode-Character-List-Master/#list)
 
 ### [0x4000-0x4FFF]
 
@@ -10802,7 +10802,7 @@ Each set is listed from; for example:
 
 <a name="0x5000"></a>
 
-[Back to list index](https://github.com/Lateralus138/Unicode-Char-List#list)
+[Back to list index](https://github.com/Lateralus138/Unicode-Character-List-Master/#list)
 
 ### [0x5000-0x5FFF]
 
@@ -21561,7 +21561,7 @@ Each set is listed from; for example:
 </tr>
 </table>
 
-[Back to list index](https://github.com/Lateralus138/Unicode-Char-List#list)
+[Back to list index](https://github.com/Lateralus138/Unicode-Character-List-Master/#list)
 
 <a name="note1">[1]</a>: Unicode is the computer standard of universal character &amp; emoji sets of all languages around the world. 
 

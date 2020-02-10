@@ -41,7 +41,7 @@ Each set is listed from; for example:
 
 <a name="0x0000"></a>
 
-[Back to list index](../../README.md#list)
+[Back to list index](https://github.com/Lateralus138/Unicode-Character-List-Master/#list)
 
 ### [0x0000-0x0FFF]
 
@@ -10804,7 +10804,7 @@ Each set is listed from; for example:
 
 <a name="0x1000"></a>
 
-[Back to list index](https://github.com/Lateralus138/Unicode-Char-List#list)
+[Back to list index](https://github.com/Lateralus138/Unicode-Character-List-Master/#list)
 
 ### [0x1000-0x1FFF]
 
@@ -21563,5 +21563,5 @@ Each set is listed from; for example:
 </tr>
 </table>
 
-[Back to list index](https://github.com/Lateralus138/Unicode-Char-List#list)
+[Back to list index](https://github.com/Lateralus138/Unicode-Character-List-Master/#list)
 
